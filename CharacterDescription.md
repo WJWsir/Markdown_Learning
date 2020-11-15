@@ -9,6 +9,7 @@
 | \+        | 加号     | plus sign               |
 | .         | 句点     | dot (or period)         |
 | /         | 斜杠     | slash                   |
+| &nbsp;    | 空格     | space                   |
 | `         | 反引号   | backtick                |
 | _         | 下划线   | underscore              |
 | \         | 反斜杠   | backslash               |
