@@ -1,29 +1,32 @@
 # Characters and Discriptions
 
-| Character | 中文释义 | Description             |
-| :-------- | :------- | :---------------------- |
-| *         | 星号     | asterisk                |
-| ,         | 逗号     | comma                   |
-| :         | 冒号     | colon                   |
-| \#        | 井号     | number sign(pound sign) |
-| \+        | 加号     | plus sign               |
-| .         | 句点     | dot (or period)         |
-| /         | 斜杠     | slash                   |
-| &nbsp;    | 空格     | space                   |
-| `         | 反引号   | backtick                |
-| _         | 下划线   | underscore              |
-| \         | 反斜杠   | backslash               |
-| { }       | 花括号   | curly braces            |
-| [ ]       | 方括号   | brackets                |
-| !         | 感叹号   | exclamation mark        |
-| &#124;    | 管道符   | pipe                    |
-| ~         | 波浪号   | tilde                   |
-| ^         | 脱字符   | caret                   |
-| ( )       | 圆括号   | parentheses             |
-| -         | 连字符   | hypen                   |
-| &minus;   |          | Minus sign              |
-| &ndash;   |          | en dash                 |
-| &mdash;   |          | em dash                 |
+| Character | 中文释义 | Description                                           |
+| :-------- | :------- | :---------------------------------------------------- |
+| *         | 星号     | asterisk                                              |
+| ,         | 逗号     | comma                                                 |
+| :         | 冒号     | colon                                                 |
+| \#        | 井号     | number sign(or pound sign)                            |
+| \+        | 加号     | plus sign                                             |
+| .         | 句点     | dot (or period)                                       |
+| /         | 斜杠     | slash                                                 |
+| &nbsp;    | 空格     | space (or non-breaking space)(1/2 length of en space) |
+| &ensp;    | 空格     | en space(1/2 length of em space)                      |
+| &emsp;    | 空格     | em space(一个中文字符长的空格)                        |
+| &thinsp;  | 空格     | thin space(1/2 length of space)                       |
+| `         | 反引号   | backtick                                              |
+| _         | 下划线   | underscore                                            |
+| \         | 反斜杠   | backslash                                             |
+| { }       | 花括号   | curly braces                                          |
+| [ ]       | 方括号   | brackets                                              |
+| !         | 感叹号   | exclamation mark                                      |
+| &#124;    | 管道符   | pipe                                                  |
+| ~         | 波浪号   | tilde                                                 |
+| ^         | 脱字符   | caret                                                 |
+| ( )       | 圆括号   | parentheses                                           |
+| -         | 连字符   | hypen                                                 |
+| &minus;   |          | Minus sign                                            |
+| &ndash;   |          | en dash                                               |
+| &mdash;   |          | em dash                                               |
 
 ## Difference of hyen, dash, and Minus sign
 
